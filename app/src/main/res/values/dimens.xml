@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="text_view_text_note_size">18sp</dimen>
+    <dimen name="text_view_date_size">12sp</dimen>
+    <dimen name="text_view_counte_size">18sp</dimen>
+</resources>
